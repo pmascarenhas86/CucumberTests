@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="jars/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="jars/commons-lang3-3.8.1.jar"/>
+	<classpathentry kind="lib" path="jars/cucumber-core-6.10.4.jar"/>
+	<classpathentry kind="lib" path="jars/cucumber-expressions-10.3.0.jar"/>
+	<classpathentry kind="lib" path="jars/cucumber-extentsreport-3.0.2.jar"/>
+	<classpathentry kind="lib" path="jars/cucumber-gherkin-6.10.4.jar"/>
+	<classpathentry kind="lib" path="jars/cucumber-gherkin-messages-6.10.4.jar"/>
+	<classpathentry kind="lib" path="jars/cucumber-java-6.10.4.jar"/>
+	<classpathentry kind="lib" path="jars/cucumber-junit-6.10.4.jar"/>
+	<classpathentry kind="lib" path="jars/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="jars/cucumber-plugin-6.10.4.jar"/>
+	<classpathentry kind="lib" path="jars/cucumber-reporting-3.8.0.jar"/>
+	<classpathentry kind="lib" path="jars/guava-31.0.1-jre.jar"/>
+	<classpathentry kind="lib" path="jars/opencsv-4.6.jar"/>
+	<classpathentry kind="lib" path="jars/selenium-api-3.141.59.jar"/>
+	<classpathentry kind="lib" path="jars/selenium-chrome-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="jars/selenium-java-3.141.59.jar"/>
+	<classpathentry kind="lib" path="jars/selenium-remote-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="jars/selenium-support-3.141.59.jar"/>
+	<classpathentry kind="lib" path="jars/junit-4.13.2.jar"/>
+	<classpathentry kind="lib" path="jars/surefire-logger-api-2.22.2.jar"/>
+	<classpathentry kind="lib" path="jars/tag-expressions-4.1.0.jar"/>
+	<classpathentry kind="lib" path="jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="jars/messages-15.0.0.jar"/>
+	<classpathentry kind="lib" path="jars/create-meta-4.0.0.jar"/>
+	<classpathentry kind="lib" path="jars/datatable-3.5.0.jar"/>
+	<classpathentry kind="lib" path="jars/docstring-6.10.4.jar"/>
+	<classpathentry kind="lib" path="jars/nekohtml-1.9.6.2.jar"/>
+	<classpathentry kind="lib" path="jars/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="jars/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="jars/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="jars/extentreports-5.0.9.jar"/>
+	<classpathentry kind="lib" path="jars/html-formatter-13.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
